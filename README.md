@@ -35,9 +35,6 @@ Navigate to `http://localhost:5000/` in your web browser. Enter a plate number a
 ## Security Considerations
 - Consider implementing additional layers of security depending on the application's context and sensitivity of data being processed.
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 ## Disclaimer
 
