@@ -1,4 +1,4 @@
-# Secure Traffic Fine Checker
+# Traffic Fine Checker
 
 This Flask application demonstrates a secure method for querying traffic fines using vehicle plate numbers and TIN numbers. By employing encryption, it aims to enhance the privacy and security of user data during transmission.
 
